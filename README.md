@@ -15,7 +15,8 @@ QuickFrameNovel是一款专业的小说、书籍阅读系统，最新的技术�
 ![](./images/10.webp)
 ![](./images/11.webp)
 #### 软件架构
-软件架构说明
+
+如有需要的可联系：itjiangwei
 
 #### 安装教程
 
