@@ -4,7 +4,16 @@
 QuickFrameNovel是一款专业的小说、书籍阅读系统，最新的技术栈、多种翻书模式、多种主题、跨终端，适用于快应用，小程序、APP
 
 ![](./images/56ca74d6bdd247999825230598b1ab2d.jpg)
-
+![](./images/2.jpg)
+![](./images/3.jpg)
+![](./images/4.jpg)
+![](./images/5.jpg)
+![](./images/6.jpg)
+![](./images/7.jpg)
+![](./images/8.jpg)
+![](./images/9.jpg)
+![](./images/10.webp)
+![](./images/11.webp)
 #### 软件架构
 软件架构说明
 
